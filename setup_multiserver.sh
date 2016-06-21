@@ -36,4 +36,5 @@ if [ ${RC} -eq 0 ]; then
 fi
 }
 
+# test
 setupMultiserver
